@@ -1,0 +1,14 @@
+C:\Users\praxe2\source\repos\Arena\Arena\bin\Debug\net8.0\Arena.exe
+C:\Users\praxe2\source\repos\Arena\Arena\bin\Debug\net8.0\Arena.deps.json
+C:\Users\praxe2\source\repos\Arena\Arena\bin\Debug\net8.0\Arena.runtimeconfig.json
+C:\Users\praxe2\source\repos\Arena\Arena\bin\Debug\net8.0\Arena.dll
+C:\Users\praxe2\source\repos\Arena\Arena\bin\Debug\net8.0\Arena.pdb
+C:\Users\praxe2\source\repos\Arena\Arena\obj\Debug\net8.0\Arena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praxe2\source\repos\Arena\Arena\obj\Debug\net8.0\Arena.AssemblyInfoInputs.cache
+C:\Users\praxe2\source\repos\Arena\Arena\obj\Debug\net8.0\Arena.AssemblyInfo.cs
+C:\Users\praxe2\source\repos\Arena\Arena\obj\Debug\net8.0\Arena.csproj.CoreCompileInputs.cache
+C:\Users\praxe2\source\repos\Arena\Arena\obj\Debug\net8.0\Arena.dll
+C:\Users\praxe2\source\repos\Arena\Arena\obj\Debug\net8.0\refint\Arena.dll
+C:\Users\praxe2\source\repos\Arena\Arena\obj\Debug\net8.0\Arena.pdb
+C:\Users\praxe2\source\repos\Arena\Arena\obj\Debug\net8.0\Arena.genruntimeconfig.cache
+C:\Users\praxe2\source\repos\Arena\Arena\obj\Debug\net8.0\ref\Arena.dll
